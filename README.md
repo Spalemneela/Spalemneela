@@ -1,6 +1,7 @@
-[![MasterHead](https://raw.githubusercontent.com/Spalemneela/Spalemneela/main/github-header-image.png)
+![MasterHead](https://raw.githubusercontent.com/Spalemneela/Spalemneela/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Srikanth Palem Neela</h1>
 <h3 align="center">Quality Assurance Manager with over 11 years of experience in software testing.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spalemneela&label=Profile%20views&color=0e75b6&style=flat" alt="spalemneela" /> </p>
 
