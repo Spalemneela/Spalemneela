@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srikanth Palem Neela</h1>
-<h3 align="center">Quality Assurance Manager with over 11 years of experience in software testing, I have held lead and management roles for more than 5 years. My expertise encompasses end-to-end Software Testing Life Cycle (STLC) for SaaS products. Additionally, I hold a Master's degree in Management and am a certified Scrum Master, proficient in software test management and manual/automated testing.</h3>
+<h3 align="center">Quality Assurance Manager with over 11 years of experience in software testing.</h3>
 
 - 📫 How to reach me **pnsrikanth4@gmail.com**
 
