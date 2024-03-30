@@ -1,4 +1,4 @@
-![Header](./https://github.com/Spalemneela/Spalemneela/blob/main/github-header-image.png)
+[![MasterHead](https://raw.githubusercontent.com/Spalemneela/Spalemneela/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Srikanth Palem Neela</h1>
 <h3 align="center">Quality Assurance Manager with over 11 years of experience in software testing.</h3>
 
